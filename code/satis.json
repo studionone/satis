@@ -1,0 +1,15 @@
+{
+    "name": "Studio None Composer Mirror",
+    "homepage": "http://composer.labs.studionone.com.au/",
+    "repositories": [
+        { "type": "git", "url": "https://bitbucket.org/StudioNoneDev/flint.git" },
+        { "type": "git", "url": "https://bitbucket.org/StudioNoneDev/flint-skeleton.git" },
+        { "type": "composer", "url": "https://packagist.org" }
+    ],
+    "require": {
+        "studionone/flint": "dev-master",
+        "studionone/flint-skeleton": "dev-master",
+        "twig/twig": "1.18.0"
+    },
+    "require-dependencies": true
+}
