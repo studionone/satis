@@ -1,6 +1,6 @@
 {
     "name": "Studio None Composer Mirror",
-    "homepage": "http://composer.labs.studionone.com.au/",
+    "homepage": "http://composer.tools.studionone.io/",
     "repositories": [
         { "type": "git", "url": "https://bitbucket.org/StudioNoneDev/flint.git" },
         { "type": "git", "url": "https://bitbucket.org/StudioNoneDev/flint-skeleton.git" },
