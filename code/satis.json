@@ -2,8 +2,8 @@
     "name": "Studio None Composer Mirror",
     "homepage": "http://composer.tools.studionone.io/",
     "repositories": [
-        { "type": "git", "url": "https://bitbucket.org/StudioNoneDev/flint.git" },
-        { "type": "git", "url": "https://bitbucket.org/StudioNoneDev/flint-skeleton.git" },
+        { "type": "git", "url": "https://github.com/studionone/Flint.git" },
+        { "type": "git", "url": "https://github.com/studionone/flint-skeleton.git" },
         { "type": "composer", "url": "https://packagist.org" }
     ],
     "require": {
