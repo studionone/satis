@@ -8,7 +8,6 @@
     ],
     "require": {
         "studionone/flint": "~1.0.0",
-        "studionone/flint-skeleton": "dev-master",
         "twig/twig": "1.18.0"
     },
     "require-dependencies": true
