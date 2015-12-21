@@ -7,7 +7,7 @@
         { "type": "composer", "url": "https://packagist.org" }
     ],
     "require": {
-        "studionone/flint": "dev-master",
+        "studionone/flint": "~1.0.0",
         "studionone/flint-skeleton": "dev-master",
         "twig/twig": "1.18.0"
     },
