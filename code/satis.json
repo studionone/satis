@@ -4,6 +4,7 @@
     "repositories": [
         { "type": "git", "url": "https://github.com/studionone/Flint.git" },
         { "type": "git", "url": "https://github.com/studionone/flint-skeleton.git" },
+        { "type": "git", "url": "https://github.com/studionone/schale.git" },
         { "type": "composer", "url": "https://packagist.org" }
     ],
     "require": {
