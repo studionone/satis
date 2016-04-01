@@ -10,7 +10,7 @@
     "require": {
         "studionone/flint": "~1.0.0",
         "twig/twig": "1.18.0",
-        "studionone/schale": "*",
+        "studionone/schale": "*"
     },
     "require-dependencies": true
 }
