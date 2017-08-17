@@ -3,13 +3,15 @@
     "homepage": "http://composer.tools.studionone.io/",
     "repositories": [
         { "type": "git", "url": "https://github.com/studionone/Flint.git" },
+	{ "type": "git", "url": "https://github.com/dotstormz/Flint.git" },
         { "type": "git", "url": "https://github.com/studionone/flint-skeleton.git" },
         { "type": "git", "url": "https://github.com/studionone/schale.git" },
         { "type": "composer", "url": "https://packagist.org" }
     ],
     "require": {
-        "studionone/flint": "~1.0.0",
-        "twig/twig": "1.18.0",
+        "studionone/flint": "*",
+	"dotstormz/flint": "*",
+        "twig/twig": "~1.18",
         "studionone/schale": "*"
     },
     "require-dependencies": true
