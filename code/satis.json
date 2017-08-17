@@ -9,8 +9,8 @@
         { "type": "composer", "url": "https://packagist.org" }
     ],
     "require": {
-        "studionone/flint": "*",
-	"dotstormz/flint": "*",
+        "studionone/flint": "~1.0",
+	"dotstormz/flint": "~2.0",
         "twig/twig": "~1.18",
         "studionone/schale": "*"
     },
